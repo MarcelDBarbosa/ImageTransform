@@ -10,3 +10,4 @@ Mostra o tamanho ocupado em memória de cada imagem e mostra as três imagens la
   <img alt="Exemplos de Transformação" title="#ImagensModificadas" src="./img/ReducaoImagem.png">
 </div>
 
+Neste exemplo a imagem original possui 150kB, a imagem em tons de cinza possui 50kB e a imagem preto e branco possui 6kB, todas com a mesma dimensão de 224x224 pixels.
